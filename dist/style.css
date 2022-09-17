@@ -1,0 +1,8 @@
+.container-fluid {
+    background-color: rgb(255, 104, 104);
+    color: white;
+}
+
+.card-header {
+    background-color: rgb(69, 69, 230);
+}
